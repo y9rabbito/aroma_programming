@@ -1,6 +1,6 @@
 # Aroma Programming
 
-[![Aroma Programming](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)]
+[![Aroma Programming](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png = 25*25)]
 
 ### Program the smell/aroma
 This is the first repository in history to create program realted to generate armona on different code configuration
