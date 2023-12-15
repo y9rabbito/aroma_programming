@@ -1,7 +1,5 @@
 # Aroma Programming
 
-[![Aroma Programming](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png = 25*25)]
-
 ### Program the smell/aroma
 This is the first repository in history to create program realted to generate armona on different code configuration
 
@@ -24,4 +22,4 @@ Best Regards,
 *Nobody can think 100 years ago a Turing Machine could almost solve every problem Human currently facing.*
 
 **So, why not to give a try.**
-![Aroma Programming](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fsmell&psig=AOvVaw0FgJpDVDKCwjihQtQhHth-&ust=1702693380995000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCODOt6OxkIMDFQAAAAAdAAAAABAE)
+![Aroma Programming](https://images.unsplash.com/photo-1508090228729-c062eefc9bef?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c21lbGx8ZW58MHx8MHx8fDA%3D)
