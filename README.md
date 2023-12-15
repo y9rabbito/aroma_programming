@@ -1,6 +1,6 @@
 # Aroma Programming
 
-[![Aroma Programming](https://github.com/nomp-org/libnomp/actions/workflows/ci.yml/badge.svg)]
+[![Aroma Programming](]
 
 ### Program the smell/aroma
 This is the first repository in history to create program realted to generate armona on different code configuration
@@ -23,7 +23,5 @@ Best Regards,
 *Like we know no-body could believe 100 years ago all the documents in a house can be stored in a single device(pendrive)*
 *Nobody can think 100 years ago a Turing Machine could almost solve every problem Human currently facing.*
 
-
-![](https://komarev.com/ghpvc/?username=y9rabbito/?repository=aroma_programming&color=0069b4)
 **So, why not to give a try.**
 ![Aroma Programming](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fsmell&psig=AOvVaw0FgJpDVDKCwjihQtQhHth-&ust=1702693380995000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCODOt6OxkIMDFQAAAAAdAAAAABAE)
