@@ -1,7 +1,7 @@
-# Aroma Programming 😶‍🌫
+# Aroma Programming 
 
-### Program the smell/aroma
-This is the first repository in history to create program realted to generate armona on different code configuration
+### Program the smell/aroma 
+😶‍🌫 This is the first repository in history to create program realted to generate armona on different code configuration
 
 Humans have 5 sensory organs - *eyes, ears, nose, tongue, and skin.*
 
